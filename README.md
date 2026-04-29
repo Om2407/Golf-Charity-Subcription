@@ -305,11 +305,6 @@ POST   /api/admin/draw/run      Run monthly draw
 
 ---
 
-## 🏆 Built For
-
-**Digital Heroes** — Full-Stack Development Trainee Selection Process
-
-> 🌐 [digitalheroes.co.in](https://digitalheroes.co.in) | Premium Full-Stack Development & Digital Marketing Agency
 
 ---
 
